@@ -1,0 +1,31 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f9fafb;
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+/* Tranziție smooth */
+body {
+  transition: background-color 0.5s ease, color 0.5s ease;
+}
+
+/* Tema light */
+body.light {
+  background-color: white;
+  color: black;
+}
+
+/* Tema dark */
+body.dark {
+  background-color: #121212;
+  color: white;
+}

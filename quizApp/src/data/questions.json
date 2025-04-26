@@ -1,0 +1,82 @@
+[
+   {
+     "id": 1,
+     "category": "Istorie",
+     "difficulty": "Ușor",
+     "question": "Cine a fost primul președinte al SUA?",
+     "options": ["George Washington", "Abraham Lincoln", "Thomas Jefferson", "John Adams"],
+     "correct": "George Washington"
+   },
+   {
+     "id": 2,
+     "category": "Matematică",
+     "difficulty": "Mediu",
+     "question": "Cât este 7 × 8?",
+     "options": ["48", "56", "64", "72"],
+     "correct": "56"
+   },
+   {
+     "id": 3,
+     "category": "Știință",
+     "difficulty": "Ușor",
+     "question": "Care este elementul chimic cu simbolul 'O'?",
+     "options": ["Oxigen", "Osmium", "Ortu", "Ozon"],
+     "correct": "Oxigen"
+   },
+   {
+     "id": 4,
+     "category": "Geografie",
+     "difficulty": "Mediu",
+     "question": "Care este capitala Franței?",
+     "options": ["Berlin", "Madrid", "Paris", "Londra"],
+     "correct": "Paris"
+   },
+   {
+     "id": 5,
+     "category": "Cultură Generală",
+     "difficulty": "Ușor",
+     "question": "Cine a scris piesa de teatru 'Romeo și Julieta'?",
+     "options": ["William Shakespeare", "Molière", "Victor Hugo", "Charles Dickens"],
+     "correct": "William Shakespeare"
+   },
+   {
+     "id": 6,
+     "category": "Sport",
+     "difficulty": "Mediu",
+     "question": "Câte jucătoare sunt pe teren într-un meci de volei (o echipă)?",
+     "options": ["5", "6", "7", "8"],
+     "correct": "6"
+   },
+   {
+     "id": 7,
+     "category": "Muzică",
+     "difficulty": "Greu",
+     "question": "Cine este cunoscut ca 'Regele Popului'?",
+     "options": ["Elvis Presley", "Michael Jackson", "Prince", "Freddie Mercury"],
+     "correct": "Michael Jackson"
+   },
+   {
+     "id": 8,
+     "category": "Filme",
+     "difficulty": "Mediu",
+     "question": "Ce film a câștigat Oscarul pentru Cel mai bun film în 1994?",
+     "options": ["Forrest Gump", "Titanic", "The Shawshank Redemption", "Pulp Fiction"],
+     "correct": "Forrest Gump"
+   },
+   {
+     "id": 9,
+     "category": "Literatură",
+     "difficulty": "Greu",
+     "question": "Ce roman a fost scris de Fyodor Dostoievski?",
+     "options": ["Crimă și pedeapsă", "Mândrie și prejudecată", "Micul Prinț", "Fratii Karamazov"],
+     "correct": "Crimă și pedeapsă"
+   },
+   {
+     "id": 10,
+     "category": "Tehnologie",
+     "difficulty": "Mediu",
+     "question": "Cine este fondatorul Microsoft?",
+     "options": ["Steve Jobs", "Bill Gates", "Mark Zuckerberg", "Jeff Bezos"],
+     "correct": "Bill Gates"
+   }
+ ]
